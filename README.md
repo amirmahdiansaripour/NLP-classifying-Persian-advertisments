@@ -6,4 +6,4 @@ For pre-processing, the $\textbf{Hazm}$ library has been used. In addition, tech
 
 ![im1](./images/5.png)
 
-![im1](./images/2.png)
+![im1](./images/2.JPG)
